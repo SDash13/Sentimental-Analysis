@@ -1,5 +1,3 @@
-Classifying Sentiments based on Twitter tweets
-
 Handled sentimental classification analysis wherein had to collate data available from the Twitter platform and classify the sentiments accordingly.
 
 Problem Statement
